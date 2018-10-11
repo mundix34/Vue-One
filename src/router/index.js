@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+import Dashboard from '@/components/Dashboard'
+import NewEmployee from '@/components/NewEmployee'
+import ViewEmployee from '@/components/ViewEmployee'
+import EditEmployee from '@/components/EditEmployee'
 
 Vue.use(Router)
 
